@@ -18,6 +18,7 @@ jobs:
             apt-get install -y git
             git clone https://github.com/prashjha/COE-311K-website.git
             cd COE-311K-website
+            git submodule update --init COE-311K
             git submodule update COE-311K
             git config user.email "pjha.sci@gmail.com"
             git config user.name "Circle CI"
