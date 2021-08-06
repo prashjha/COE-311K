@@ -9,31 +9,18 @@ version: 2
 jobs:
   build:
     docker:
-      - image: felicianotech/docker-hugo:0.21
-
-commands:
-  hugobuild:
+      - image: klakegg/hugo:0.87.0-ubuntu
     steps:
-      - run: 
-          name: Hugo Build
-          command: |
-            git clone 
-            make -j 2
-
-working_directory: ~/project
-steps:
-  - checkout
-  - run:
-      name: "Run Hugo"
-      command: 
-        git config user.email "pjha.sci@gmail.com"
-        git config user.name "Circle CI"
-        git clone https://github.com/prashjha/COE-311K-website.git
-        cd COE-311K-website
-        git submodule update --init COE-311K
-        hugo -F
-        git add .
-        git commit --allow-empty -m "update" 
-        # Push quietly to prevent showing the token in log
-        git push -q https://${G_TOKEN}@github.com/prashjha/COE-311K-website.git main
-
+      - run:
+        name: "Run Hugo"
+        command: |
+          git config user.email "pjha.sci@gmail.com"
+          git config user.name "Circle CI"
+          git clone https://github.com/prashjha/COE-311K-website.git
+          cd COE-311K-website
+          git submodule update --init COE-311K
+          hugo -F
+          git add .
+          git commit --allow-empty -m "update" 
+          # Push quietly to prevent showing the token in log
+          git push -q https://${G_TOKEN}@github.com/prashjha/COE-311K-website.git main
