@@ -1,0 +1,39 @@
+# ----------------------------------
+# Copyright (c) 2021 Prashant K. Jha
+# ----------------------------------
+#
+# Distributed under the Boost Software License, Version 1.0. (See accompanying
+# file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
+
+version: 2
+jobs:
+  build:
+    docker:
+      - image: felicianotech/docker-hugo:0.21
+
+commands:
+  hugobuild:
+    steps:
+      - run: 
+          name: Hugo Build
+          command: |
+            git clone 
+            make -j 2
+
+working_directory: ~/project
+steps:
+  - checkout
+  - run:
+      name: "Run Hugo"
+      command: 
+        git config user.email "pjha.sci@gmail.com"
+        git config user.name "Circle CI"
+        git clone https://github.com/prashjha/COE-311K-website.git
+        cd COE-311K-website
+        git submodule update --init COE-311K
+        hugo -F
+        git add .
+        git commit --allow-empty -m "update" 
+        # Push quietly to prevent showing the token in log
+        git push -q https://${G_TOKEN}@github.com/prashjha/COE-311K-website.git main
+
