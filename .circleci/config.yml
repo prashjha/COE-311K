@@ -9,7 +9,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: klakegg/hugo:0.87.0-ubuntu
+      - image: klakegg/hugo:0.87.0-ext-ubuntu
     steps:
       - run:
           name: "Run Hugo"
