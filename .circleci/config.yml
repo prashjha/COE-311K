@@ -14,6 +14,7 @@ jobs:
       - run:
           name: "Run Hugo"
           command: |
+            apt get install git
             git config user.email "pjha.sci@gmail.com"
             git config user.name "Circle CI"
             git clone https://github.com/prashjha/COE-311K-website.git
