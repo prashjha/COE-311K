@@ -8,11 +8,12 @@ title: "Syllabus"
 | | |
 | --- | --- |
 | Instructor | Prashant K. Jha |
-| Course | ACES 4.126 |
 | Email | prashant.jha@austin.utexas.edu, pjha.sci@gmail.com |
+| Course | ASE 1.126 [map](https://goo.gl/maps/iB4UFDYAM1SCF3Qz5) |
+| Course unique number | 14610 |
 | Office hours | Wednesday, 4:00 - 6:00 pm |
-| Lecture time | MWF 12:00 noon – 1:00 pm |
-| Webpage | [COE311K](https://prashjha.github.io/COE-311K-website/) |
+| Lecture time | MWF 9:00 - 10:00 am |
+| Course webpage | [COE311K](https://prashjha.github.io/COE-311K-website/) |
 | Canvas webpage | [Canvas](https://utexas.instructure.com/courses/1316151) |
 | Github repository | [COE-311K](https://prashjha.github.io/COE-311K/) |
 
@@ -20,17 +21,16 @@ title: "Syllabus"
 TBA
 
 # Textbook
-We will use following book as a main reference. 
+We will use the following book as a main reference
 
 > **Applied Numerical Methods with Matlab for Engineers & Scientists** by *Steven C. Chapra*. 3rd Ed., McGraw-Hill, 2012
 
 # Assignment, exams, and grading policy
-These are discussed [here]({{< relref "/docs/syllabus/policies" >}}).
+These are discussed [here]({{< relref "/docs/syllabus/grading" >}})
 
-# Topics to be taught in this course
-| | | |
-| --- | --- | --- |
+# Topics to be covered
 | **Topic** | **Chapters in reference** | **Number of lectures** |
+| --- | --- | --- |
 | Linear system of equations - part 1 (Linear algebra) | 8-11 | 2 |
 | Introduction to MATLAB | 2,3 | 6 |
 | Sources of error | 4 | 1 |
