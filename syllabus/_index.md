@@ -9,6 +9,7 @@ title: "Syllabus"
 | --- | --- |
 | Instructor | Prashant K. Jha |
 | Email | prashant.jha@austin.utexas.edu, pjha.sci@gmail.com |
+| Title of course | Engineering Computation |
 | Course unique number | 14610 |
 | Office hours | Wednesday, 4:00 - 6:00 pm |
 | Lecture room | ASE 1.126 [map](https://goo.gl/maps/iB4UFDYAM1SCF3Qz5) |
