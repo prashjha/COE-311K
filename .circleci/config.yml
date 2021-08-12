@@ -26,7 +26,7 @@ jobs:
             git pull 
             # build website
             cd ..
-            hugo -F
+            HUGO_ENV="production"  hugo -F
             # commit to website repo
             git config user.email "pjha.sci@gmail.com"
             git config user.name "Prashant K. Jha"
