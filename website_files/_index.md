@@ -37,3 +37,9 @@ Office hours: TBA
 3. For group communication and online discussion, we will mainly use Canvas, however, I have also created a forum in `gitter` for this course. This is public forum and it is supereasy to join. Join gitter forum for this course [here](https://gitter.im/UTA-Fall2021-COE-311K/community)
 
 4. Lecture slides and assignments will be updated in both canvas and this github repository: [COE 311K](https://github.com/prashjha/COE-311K)
+
+# Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=8m4gdrlvv4mcj45qauh30fl040%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+See or import calendar using [this link](https://calendar.google.com/calendar/embed?src=8m4gdrlvv4mcj45qauh30fl040%40group.calendar.google.com&ctz=America%2FChicago).
