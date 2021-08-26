@@ -5,38 +5,41 @@ weight: 10
 # Grading
 | Type | Weight | Remarks |
 | --- | --- | --- |
-| Attendance and active participation | 5% | |
+| Attendance, active participation, pop-quizzes | 5% | |
 | Homeworks/assignments | 30% | Total 6 (we will count best 4 out of 6) |
-| Projects/Exams | 40% | Total 2 |
+| Projects/Exams | 35% | Total 2 (20% and 15%) |
 | Final project/exam | 25% | |
 
-# Assignments
-- There will be total 6 assignments, however, in the end we will only consider best 4 out of 6
-- Assignment will be due in a week from the day it is assigned
-- Upto 4 days of delay is allowed, however, each passing day you will lose 20% of the marks
-- It is possible to allow late submission. You need to explain why you want to submit late and only if the instructor has confirmed, you can submit assignment late. Instructor retains the rights to decide in this matter
-- In case you are going through emergency, do not worry about the late submission. You can submit assignment once you are out of the emergency. Of course, late submission in this case will only be accepted if the reasons you have provided are valid. Instructor retains the rights to decide in this matter
-- Assignments have to completed without any collaboration or help. There will be penalty if we find signs of plagiarism 
-- Codes developed to complete the assignments should also be independent and graders will check if there is plagiarism or code is copied from online sources
-- Instead of engaging in such activities, you are encouraged to get help from TAs and instructor and complete the assignments independently
 
-# Projects/exams
-In order to encourage collaboration and exchange of ideas, we will assign two projects during the semester. Some points:
+Grading slabs
 
-- projects are more challenging than the assignments
-- we will form the group of 5 students and each group will complete the project
-- members within group will work together to complete the project, however,
-- the final reports that you will submit has to be prepared individually
-- you will get about 2-3 weeks of time (depending on the complexity) to complete the project
+| A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 90 < G ≤ 100 | 87 < G ≤ 90 | 84 < G ≤ 87 | 80 < G ≤ 84 | 77 < G ≤ 80 | 74 < G ≤ 77 | 70 < G ≤ 74 | 67 < G ≤ 70 | 64 < G ≤ 67 | 60 < G ≤ 64 | 55 < G ≤ 60 | G ≤ 55 |
 
-Regarding late submissions, we will follow the rules of `Assignments` section above.
 
-# Final project/exam
-Depending on the performance of class, you will either get a project as a final exam or in-class exam. More details will be available at later times.
+> Note: We will follow university guidelines in enforcing regular attendance. Whether it is an online or in-person class, active participation from students is expected. The penalty could be higher for those students who show significantly less interest in the class activity. In addition, students disrupting the class or learning process of other students will be fined (in terms of total grade) heavily.
 
-# Important remarks
-1. Depending on the performance of class, we may or may not have a mid-term exam. You will of course be made aware at least 2-3 weeks ahead of time.
-2. I reserve the right to give a Q or F grade, or otherwise terminate, a student’s class registration for any reason that I believe to be disruptive to the learning process of the student or of the class. 
+# Homework Policy
+1. There will be a total of 6 assignments; however, in the end, we will only consider the best 4 out of 6.
+2. Assignment will be due in a week from the day it is assigned.
+3. Up to 4 days of delay is allowed. However, each passing day you will lose 20% of the marks.
+4. It is possible to allow late submission. You need to explain the reason for the late submission, and only if the instructor has confirmed you can submit the assignment late. The instructor retains the right to decide on this matter.
+5. In case you are going through an emergency, do not worry about the late submission. You can submit the assignment once you are out of the crisis. Of course, late submission, in this case, will only be accepted if the reasons you have provided are valid. The instructor retains the right to decide on this matter.
+6. Assignments must be completed without any collaboration or help. There will be a penalty if we find signs of plagiarism. 
+7. Codes developed to complete the assignments should also be independent, and graders will check if plagiarism or code is copied from online sources. 
+
+# Examinations
+To encourage collaboration and exchange of knowledge, we will assign two projects. Some key points:
+1. Projects will be more challenging compared to the assignments.
+2. We will form a group of 5 students (group will be formed randomly), and each group will complete the project.
+3. The final report that you will submit has to be prepared individually (i.e., you will collaborate with your group members but will prepare reports separately).
+4. Unlike assignments, you will be given 2 weeks to complete each project.
+
+> Note: We will follow the rules described in the Homework Policy section above regarding the late submissions.
+
+# Attendance
+Regular attendance is expected. Students are responsible for the information covered in class.
 
 # Special notes 
 The University of Texas at Austin provides upon request appropriate academic adjustments for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 471-6259, 471-4641 TDD or the College of Engineering Director of Students with Disabilities at 471-4321.
