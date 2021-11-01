@@ -7,8 +7,8 @@ weight: 10
 | --- | --- | --- |
 | Attendance, active participation, pop-quizzes | 5% | |
 | Homeworks/assignments | 30% | Total 6 (we will count best 4 out of 6) |
-| Projects/Exams | 35% | Total 2 (20% and 15%) |
-| Final project/exam | 25% | |
+| Projects/Exams | 40% | Total 2 (20% and 20%) |
+| Final project | 25% | |
 
 
 Grading slabs

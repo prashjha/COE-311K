@@ -19,13 +19,13 @@ Lecture time: MWF 9:00 am - 10:00 am
 
 Lecture room: ASE 1.126, map: 2617 Wichita St, Austin, TX 78712
 
-Office hours: Thursday, 4:00 - 6:00 pm
+Office hours: Wednesday 6:00 - 7:30 pm, Thursday 6:00 - 7:30 pm
 
 Canvas course website: [Section 1 (14610)](https://utexas.instructure.com/courses/1316151)
 
 ### Teaching assistant 
 
-TA: Brad Marvin
+TA: Brad Marvin (brad_marvin@utexas.edu)
 
 Office hours: TBA
 
@@ -34,9 +34,9 @@ Office hours: TBA
 
 2. Canvas link to the course: TBA
 
-3. For group communication and online discussion, we will mainly use Canvas, however, I have also created a forum in `gitter` for this course. This is public forum and it is supereasy to join. Join gitter forum for this course [here](https://gitter.im/UTA-Fall2021-COE-311K/community)
+3. For group communication and online discussion, we will mainly use Canvas, however, I have also created groups in Groupme and Slack. 
 
-4. Lecture slides and assignments will be updated in both canvas and this github repository: [COE 311K](https://github.com/prashjha/COE-311K)
+4. Lecture slides and assignments will be updated in both canvas and this github repository (however, updates in this repository is expected to be delayed): [COE 311K](https://github.com/prashjha/COE-311K)
 
 # Calendar
 
