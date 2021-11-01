@@ -1,7 +1,7 @@
 ---
 weight: 10
 bookFlatSection: true
-title: "Final Exam"
+title: "Final Project"
 ---
 
 > TBA

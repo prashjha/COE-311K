@@ -10,6 +10,3 @@ We will have two projects and one final project in this course. Typically, the p
 
 - [**Project 1**]({{< relref "/docs/projects/project1" >}})
 - [**Project 2**]({{< relref "/docs/projects/project2" >}})
-
-# Final project
-> TBA
