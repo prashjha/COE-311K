@@ -1,5 +1,5 @@
 ---
-weight: 20
+weight: 22
 ---
 
 # Lecture 7 - 8
@@ -9,4 +9,4 @@ weight: 20
 4. Bracketing method - Incremental search method, Bisection method, False-position method
 
 # Links
-1. [Lecture notes](Lecture 7-8.pdf)
+1. [Lecture notes](Lecture-7-8.pdf)
