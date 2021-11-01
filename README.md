@@ -6,17 +6,17 @@ Website for this course is located at [https://prashjha.github.io/COE-311K-websi
 
 > Using circle-ci, the website is automatically updated whenever this repository is updated. Checkout `.circleci/config.yml` file.
 
-## syllabus
+## Syllabus
 Syllabus is described in this directory.
 
-## lectures
-We will host the files for each lecture in the`lectures` directory.
+## Lectures
+Lecture files can be found in the `lectures` directory.
 
-## assignments
+## Assignments
 There will be total 6 assignments. The assignments will be available in the `assignments` directory.
 
-## projects
-In this course, we will assign two projects. Each project will be completed by the group of 5 students. The project description and other files will be available in `projects` directory.
+## Projects
+I will assign two projects which will be completed by a group of 4-5 students. The project description and other files will be available in `projects` directory.
 
-## final exam
-As a final exam, we will assign a project which will not be collaborative. The relevant files will be in the directory `finals`.
+## Final project
+Given the nature of course, I will assign final project as a final exam. This final project will be done in two parts: part 1 will be collaborative and part 2 must be done independently. The relevant files will be available in the directory `finals`.
