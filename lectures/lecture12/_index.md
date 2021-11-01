@@ -1,5 +1,6 @@
 ---
 weight: 30
+math: true
 ---
 
 # Lecture 12
