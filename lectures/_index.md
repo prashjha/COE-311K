@@ -28,7 +28,7 @@ On the right-side of website, you can find the list of lectures. The list will b
 - [**Lecture 16**]({{< relref "/docs/lectures/lecture16" >}})
 - [**Lecture 17**]({{< relref "/docs/lectures/lecture17" >}})
 - [**Lecture 18**]({{< relref "/docs/lectures/lecture18" >}})
-- [**Lecture 19**]({{< relref "/docs/lectures/lecture91" >}})
+- [**Lecture 19**]({{< relref "/docs/lectures/lecture19" >}})
 - [**Lecture 20-21**]({{< relref "/docs/lectures/lecture20-21" >}})
 - [**Lecture 22**]({{< relref "/docs/lectures/lecture22" >}})
 - [**Lecture 23**]({{< relref "/docs/lectures/lecture23" >}})
