@@ -4,4 +4,12 @@ bookFlatSection: true
 title: "Projects"
 ---
 
-We will have total two projects in this course. The projects will be completed by group of 5 students. The relevant files will be available in due time.
+We will have two projects and one final project in this course. Typically, the projects will be completed by a group of 4-5 students. Each student will prepare independent project report and the grading will be student-specific. 
+
+# Projects
+
+- [**Project 1**]({{< relref "/docs/projects/project1" >}})
+- [**Project 2**]({{< relref "/docs/projects/project2" >}})
+
+# Final project
+> TBA
