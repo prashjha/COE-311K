@@ -1,5 +1,5 @@
 ---
-weight: 15
+weight: 30
 bookFlatSection: true
 title: "Assignments"
 ---
