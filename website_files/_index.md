@@ -23,9 +23,6 @@ Office hours: Wednesday 6:00 - 7:30 pm, Thursday 6:00 - 7:30 pm
 
 Canvas course website: [Section 1 (14610)](https://utexas.instructure.com/courses/1316151)
 
-### Syllabus pdf
-Download from this [link](({{< relref "/docs/syllabus/Syllabus-COE-311K-Fall-2021.pdf" >}}))
-
 ### Teaching assistant 
 
 TA: Brad Marvin (brad_marvin@utexas.edu)

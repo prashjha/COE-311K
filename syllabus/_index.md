@@ -17,6 +17,9 @@ title: "Syllabus"
 | Canvas webpage | [Section 1 (14610)](https://utexas.instructure.com/courses/1316151) |
 | Github repository | [COE-311K](https://github.com/prashjha/COE-311K.git) |
 
+## Syllabus pdf
+Download from this [link](Syllabus-COE-311K-Fall-2021.pdf)
+
 ## Teaching assistants
 
 TA: Brad Marvin (brad_marvin@utexas.edu)
