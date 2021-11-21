@@ -11,3 +11,4 @@ weight: 12
 # Links
 1. Problem: [P2.pdf](P2.pdf), (Latex files - [P2.tex](P2.tex))
 2. Matlab scripts to get started: [TumModel.m](TumModel.m), [CostFunction.m](CostFunction.m), [SolveOptimization.m](SolveOptimization.m)
+3. Solution files: [TumModel.m](solution/TumModel.m), [CostFunction.m](solution/CostFunction.m), [SolveOptimization.m](solution/SolveOptimization.m)
