@@ -8,4 +8,4 @@ Exercise on Eigenvalue-Eigenvector problem. We consider two applications: spring
 # Links
 1. Problem: [A3.pdf](A3.pdf), (Latex files - [A3.tex](A3.tex))
 2. Derivation of equations for spring-mass system: [derivation](A3_derivation_spring_system.pdf)
-3. Solution and matlab script (TBA)
+3. Solution and matlab script: [A3_problem.m](A3_problem.m)
